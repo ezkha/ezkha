@@ -1,5 +1,5 @@
-# Hey, it's KKiIOT!
+# Hey, it's ...!
 
-### GitHub is absolutely proprietary garbage
+### GitHub is absolutely proprietary
 
-Find my repositories at [Codeberg](https://codeberg.org/kki0t) instead.
+Hesitating between srht and Codeberg.

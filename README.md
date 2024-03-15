@@ -1,3 +1,3 @@
-![Microsoft logo](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWCZER?ver=1433&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
-![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-![ABSOLUTELY PROPRIETARY](https://i.osmarks.net/memes-or-something/absolutely-proprietary.png)
+![Copilot](https://miro.medium.com/max/700/0*oRRpMJ9XqkRnYLhW.png)
+![Cognitive, company behind Devin](https://assets-global.website-files.com/65cf071d26e52092bc212f6e/65ed4622397bb038560f1ef3_cropped-p-500.png)
+![Unfortunate computer man](https://external-preview.redd.it/8xZXOn2jV6mrANghqqHoBCdCakxX4wOcYY24oA-GHdE.jpg?auto=webp&s=4cd05471d3dd21ce7b0c0a00927aa474ab09932f)

@@ -1,0 +1,64 @@
+EZ TERMS AND CONDITIONS FOR CONTRIBUTING, VERSION 1
+=========================================================
+
+PREAMBLE: CODE OF CONDUCT
+-------------------------
+1. Follow Contributor Covenant; otherwise be automatically designated as
+   disrespectful "script kiddie".
+
+COMMITS
+-------
+1. Follow Conventional Commits 1.0. Commits types used shall only be the types as
+   specified by the Angular project's CONTRIBUTING guidelines, and only those.
+   It is also part of the additionnal types recommended by the Conventional
+   Commits guideline.
+
+   Conventional Commits can be found at: https://www.conventionalcommits.org/en/v1.0.0
+
+   These types can be found at: https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
+
+BRANCHING
+---------
+1. Development shall occur in the main branch, designated as `main`.
+   Ideally, major rewrites or features should be developed in new branches,
+   distinct from the main branch.
+
+   There shall be no mention of the word "master" anywhere in all projects
+   except this very paragraph. There is no debate. Even considering a debate
+   will be reported as incitation of slavery.
+
+VERSIONING
+----------
+1. Follow Semantic Versioning 2.0.0. (SemVer)
+
+   It may be found at: https://semver.org/spec/v2.0.0.html
+
+DELIVERY, DEPLOYMENT
+--------------------
+1. Follow and apply SemVer 2.0.0 to version strings
+2. To all version strings shall be appended:
+   - `_nightly`, if built directly from branches' current state (except in
+     feature freeze, see below).
+   - `_canary`, if built from branch in a state of feature freeze,
+     or pending stable release.
+   - NOTHING, for all other cases.
+
+OTHER
+-----
+1. Don't write garbage code.
+2. Think before writing.
+3. Enjoy knowing we are one step closer to achieving immortality.
+   Either because this project consists of an immortality module,
+   or it will pleasure Dr. Millesimus of Los Chopos Nanotechnologies
+   and Bioelectronics laboratory, thanks to our project providing
+   acceptable degrees of entertainment and functionnality. It would have
+   thus boosted his degree of happiness and inventing the ~~end_of_ethics~~
+   AGR-2132 age reversing system 0.0001 seconds sooner due to a positive mindset.
+
+   Of course, if one single crash occurred, we would instead all be doomed
+   to roam this Land for a finite amount of seconds.
+4. Do not get angry at me if I chose a language unfitted for the job or
+   prone to cause immense security vulnerabilities (not my fault) instead
+   of just being wholly backdoored by federals.
+
+Copylol eζκhα 2024
